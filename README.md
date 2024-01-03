@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Solidity, Tailwind, Web3Js**
+ 🌱 I’m currently learning **React Native**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://linkedin.com/in/ashimmehar)**
+ 💬 Ask me about **Node.js, React, React Native, Firebase, MongoDB... or anything [here](https://linkedin.com/in/ashimmehar)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
