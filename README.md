@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **React Native**
 
- 💬 Ask me about **Node.js, React, React Native, Firebase, MongoDB... or anything [here](https://linkedin.com/in/ashimmehar)**
+ 💬 Ask me about **Node.js, React, NextJs, NestJs, React Native, Firebase, MongoDB... or anything [here](https://linkedin.com/in/ashimmehar)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
